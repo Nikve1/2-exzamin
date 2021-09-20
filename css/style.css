@@ -492,6 +492,8 @@ body{
     }
 
     .subject_link{
+        width: 500px;
+        text-align: center;
         margin-top: 15px;
         font-size: 14px;
         padding: 5px 10px;
@@ -508,3 +510,24 @@ body{
     }
 }
 
+
+.title_img .container{
+    margin-top: 50px;
+}
+
+
+.title_img_title{
+    text-align: center;
+}
+
+
+.title_img_text{
+    margin-left: 200px;
+    width: 700px;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+}
